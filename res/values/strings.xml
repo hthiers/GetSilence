@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Get Silence</string>
+    <string name="lbl_tiempo">Tiempo duración:</string>
+    <string-array name="opciones_horas">
+    	<item>1</item>
+    	<item>5</item>
+    	<item>15</item>
+    	<item>30</item>
+    	<item>60</item>
+    	<item>90</item>
+    	<item>120</item>
+    	<item>180</item>
+    </string-array>
+    	<string name="hora_actual">Hora actual:</string>
+    	<string name="cambiar_modo_silencio">Cambiar Modo Silencio</string>
+    	<string name="testing">nadaaaaa</string>
+</resources>
